@@ -5,6 +5,8 @@ This Repo is for Terraweek Blogs:-
 
 ----
 [Day2](https://medium.com/@sushantkapare1717/day-2-terraform-configuration-language-hcl-18b3b37a993f)
+
 ----
 [day3](https://medium.com/@sushantkapare1717/day-3-terraweek-managing-resources-6a5558ff09fc)
+
 ----
