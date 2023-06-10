@@ -13,4 +13,7 @@ This Repo is for Terraweek Blogs:-
 [day4](https://medium.com/@sushantkapare1717/day-4-terraform-state-management-c6b3e0e4a448)
 
 ---
-[day5]
+[day5](https://medium.com/@sushantkapare1717/day-5-terraweek-terraform-modules-e802f4c8e2a3)
+
+---
+[day6]
