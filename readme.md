@@ -16,4 +16,7 @@ This Repo is for Terraweek Blogs:-
 [day5](https://medium.com/@sushantkapare1717/day-5-terraweek-terraform-modules-e802f4c8e2a3)
 
 ---
-[day6]
+[day6](https://medium.com/@sushantkapare1717/day06-terraweek-terraform-providers-1c70900d7d62)
+
+---
+[day7]
