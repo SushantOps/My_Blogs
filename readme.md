@@ -19,4 +19,6 @@ This Repo is for Terraweek Blogs:-
 [day6](https://medium.com/@sushantkapare1717/day06-terraweek-terraform-providers-1c70900d7d62)
 
 ---
-[day7]
+[day7](https://medium.com/@sushantkapare1717/day-7-terraweek-advanced-topics-e8f5b74e19e1)
+
+---
