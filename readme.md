@@ -15,3 +15,5 @@ This Repo is for  Blogs:-
 ---
 #Terraweek[day7](https://medium.com/@sushantkapare1717/day-7-terraweek-advanced-topics-e8f5b74e19e1)
 ---
+[day8](https://medium.com/@sushantkapare1717/streamline-your-development-process-with-an-effective-ci-cd-pipeline-61d0582335f2)
+---
