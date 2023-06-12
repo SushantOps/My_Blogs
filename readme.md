@@ -29,3 +29,5 @@ This Repo is for  Blogs:-
 ---
 [Containerizing the Node.js APP using Docker](https://medium.com/@sushantkapare1717/containerizing-the-node-js-app-using-docker-ed0b3a29f8dd)
 ---
+[Deploying a web-application using Nginx server and Reverse Proxy](https://medium.com/@sushantkapare1717/deploying-a-web-application-using-nginx-server-and-reverse-proxy-244f65ae9ff)
+---
