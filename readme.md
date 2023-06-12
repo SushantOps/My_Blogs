@@ -1,5 +1,5 @@
 This Repo is for  Blogs:-
-#Terraweek
+
 ----
 #Terraweek[Day1](https://medium.com/@sushantkapare1717/day-1-introduction-to-terraform-and-terraform-basics-db6ce45fef16)
 ----
@@ -24,4 +24,8 @@ This Repo is for  Blogs:-
 [Demystifying the Differences Between DevOps and MLOps](https://medium.com/@sushantkapare1717/demystifying-the-differences-between-devops-and-mlops-225f886f264e)
 ---
 [Deploy a Flask Application to a EKS Cluster using Jenkins and ArgoCD](https://medium.com/@sushantkapare1717/deploy-a-flask-application-to-a-eks-cluster-using-jenkins-and-argocd-fa6386dbe916)
+---
+[Deploying NodeJS APP on AWS EC2 Instance](https://medium.com/@sushantkapare1717/deploying-nodejs-app-on-aws-ec2-instance-942e360e8430)
+---
+[Containerizing the Node.js APP using Docker](https://medium.com/@sushantkapare1717/containerizing-the-node-js-app-using-docker-ed0b3a29f8dd)
 ---
