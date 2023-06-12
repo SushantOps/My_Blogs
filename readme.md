@@ -17,3 +17,11 @@ This Repo is for  Blogs:-
 ---
 [day8](https://medium.com/@sushantkapare1717/streamline-your-development-process-with-an-effective-ci-cd-pipeline-61d0582335f2)
 ---
+[day9](https://medium.com/@sushantkapare1717/introduction-to-docker-e858e8933a83)
+---
+[day10](https://medium.com/@sushantkapare1717/what-is-terraform-mastering-terraform-commands-799e299d566e)
+---
+[day11](https://medium.com/@sushantkapare1717/demystifying-the-differences-between-devops-and-mlops-225f886f264e)
+---
+[Deploy a Flask Application to a EKS Cluster using Jenkins and ArgoCD](https://medium.com/@sushantkapare1717/deploy-a-flask-application-to-a-eks-cluster-using-jenkins-and-argocd-fa6386dbe916)
+---
