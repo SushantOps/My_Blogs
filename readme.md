@@ -33,4 +33,6 @@ This Repo is for  Blogs:-
 ---
 [Build and push a Docker image to Amazon ECR and then deploy it to an ECS cluster](https://medium.com/@sushantkapare1717/build-and-push-a-docker-image-to-amazon-ecr-and-then-deploy-it-to-an-ecs-cluster-6ad16f545c22)
 ---
+[Setup Prometheus monitoring on Kubernetes using Grafana](https://medium.com/@sushantkapare1717/setup-prometheus-monitoring-on-kubernetes-using-grafana-fe09cb3656f7)
+---
 
