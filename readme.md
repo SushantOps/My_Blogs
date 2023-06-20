@@ -37,3 +37,5 @@ This Repo is for  Blogs:-
 ---
 [How to manage multiple environments with Terraform using Terragrunt](https://medium.com/@sushantkapare1717/how-to-manage-multiple-environments-with-terraform-using-terragrunt-717340cfc374)
 ---
+[GitOps Approach](https://medium.com/@sushantkapare1717/gitops-approach-2b232a81ac44)
+---
