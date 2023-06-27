@@ -21,10 +21,6 @@ This Repo is for  Blogs:-
 ---
 [Demystifying the Differences Between DevOps and MLOps](https://medium.com/@sushantkapare1717/demystifying-the-differences-between-devops-and-mlops-225f886f264e)
 ---
-[Deploying a web-application using Nginx server and Reverse Proxy](https://medium.com/@sushantkapare1717/deploying-a-web-application-using-nginx-server-and-reverse-proxy-244f65ae9ff)
----
-[Build and push a Docker image to Amazon ECR and then deploy it to an ECS cluster](https://medium.com/@sushantkapare1717/build-and-push-a-docker-image-to-amazon-ecr-and-then-deploy-it-to-an-ecs-cluster-6ad16f545c22)
----
 [Setup Prometheus monitoring on Kubernetes using Grafana](https://medium.com/@sushantkapare1717/setup-prometheus-monitoring-on-kubernetes-using-grafana-fe09cb3656f7)
 ---
 [How to manage multiple environments with Terraform using Terragrunt](https://medium.com/@sushantkapare1717/how-to-manage-multiple-environments-with-terraform-using-terragrunt-717340cfc374)
