@@ -31,5 +31,7 @@ This Repo is for  Blogs:-
 ---
 [What is DevSecOps](https://medium.com/@sushantkapare1717/what-is-devsecops-16126a8c6a68)
 ---
+[Grafana Setup On Ubuntu](https://medium.com/@sushantkapare1717/grafana-setup-on-ubuntu-2e90aa20b76d)
+---
 
 
