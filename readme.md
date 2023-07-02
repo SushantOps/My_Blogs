@@ -35,4 +35,7 @@ This Repo is for  Blogs:-
 ---
 [Image Building Using Packer](https://medium.com/@sushantkapare1717/image-building-using-packer-8021a8229816)
 ---
-
+[Things you should Know to start using your Ansible Playbook](https://medium.com/@sushantkapare1717/things-you-should-know-to-start-using-your-ansible-playbook-7610a86f1e94)
+---
+[AWS Management with Powerful Boto3 Scripts](https://medium.com/@sushantkapare1717/aws-management-with-powerful-boto3-scripts-e41e154b8bab)
+---
