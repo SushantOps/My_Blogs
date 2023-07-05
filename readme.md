@@ -42,4 +42,5 @@ This Repo is for  Blogs:-
 [Docker Interview Questions](https://medium.com/@sushantkapare1717/docker-interview-questions-74b517ee8943)
 ---
 [Introduction To Ansible Roles](https://medium.com/@sushantkapare1717/introduction-to-ansible-roles-d1d842dcad4)
+---[K8's Deployment Strategies: Rolling vs Canary vs Blue-Green](https://medium.com/@sushantkapare1717/k8s-deployment-strategies-rolling-vs-canary-vs-blue-green-6bffa2d3af99)
 ---
