@@ -48,3 +48,5 @@ This Repo is for  Blogs:-
 ---
 [Kubernetes Basics Cheatsheet](https://medium.com/@sushantkapare1717/kubernetes-basics-cheatsheet-fdc6f4f6b208)
 ---
+[Ensuring Security and Data Privacy as a DevOps Engineer](https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044)
+---
