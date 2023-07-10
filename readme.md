@@ -50,3 +50,5 @@ This Repo is for  Blogs:-
 ---
 [Ensuring Security and Data Privacy as a DevOps Engineer](https://medium.com/@sushantkapare1717/ensuring-security-and-data-privacy-as-a-devops-engineer-8837b9eff044)
 ---
+[How to Reduce Docker Image Size (Best Practices)](https://medium.com/@sushantkapare1717/how-to-reduce-docker-image-size-best-practices-c5c3ff71da76)
+---
