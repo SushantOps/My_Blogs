@@ -54,3 +54,5 @@ This Repo is for  Blogs:-
 ---
 [Terraform vs CloudFormation](https://medium.com/@sushantkapare1717/terraform-vs-cloudformation-eff79f5c3032)
 ---
+[Building a Strong Pipeline for Deployment and Delivery: A DevOps Engineer’s Approach](https://medium.com/@sushantkapare1717/building-a-strong-pipeline-for-deployment-and-delivery-a-devops-engineers-approach-8dab1ee193cc)
+---
