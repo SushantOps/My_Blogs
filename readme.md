@@ -60,3 +60,6 @@ This Repo is for  Blogs:-
 ---
 [Understanding Pod Disruption Budget (PDB) in Kubernetes](https://medium.com/@sushantkapare1717/understanding-pod-disruption-budget-pdb-in-kubernetes-787c03164d7a)
 ---
+[Kubernetes interview questions Part -I](https://medium.com/@sushantkapare1717/kubernetes-interview-questions-part-i-383c4bdeacd4)
+---
+
