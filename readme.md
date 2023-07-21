@@ -64,3 +64,5 @@ This Repo is for  Blogs:-
 ---
 [Helm vs. Kustomize in Kubernetes](https://medium.com/@sushantkapare1717/helm-vs-kustomize-in-kubernetes-cc063bbb4b0e)
 ---
+[Kubernetes interview QuestionsPart -II](https://medium.com/@sushantkapare1717/kubernetes-interview-questionspart-ii-fafa56a9db4b)
+---
