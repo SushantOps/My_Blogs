@@ -68,3 +68,5 @@ This Repo is for  Blogs:-
 ---
 [Enforce Kubernetes Security with Kyverno](https://medium.com/@sushantkapare1717/enforce-kubernetes-security-with-kyverno-353fa668eaac)
 ---
+[Kubernetes interview QuestionsPart -III](https://medium.com/@sushantkapare1717/kubernetes-interview-questionspart-iii-617a6216deb3)
+---
