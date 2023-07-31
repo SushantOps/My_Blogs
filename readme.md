@@ -76,3 +76,5 @@ This Repo is for  Blogs:-
 ---
 [Docker Senario Based Questions Part-I](https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-i-92cbe79faba4)
 ---
+[Docker Senario Based Questions Part-II](https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-ii-b98ff8fb60aa)
+---
