@@ -80,3 +80,5 @@ This Repo is for  Blogs:-
 ---
 [Docker Senario Based Questions Part-III](https://medium.com/@sushantkapare1717/docker-senario-based-questions-part-iii-8a808489e6ef)
 ---
+[Terraform Senario Based Questions Part-I](https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-i-36eebf18d844)
+---
