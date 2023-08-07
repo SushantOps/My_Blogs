@@ -84,3 +84,5 @@ This Repo is for  Blogs:-
 ---
 [Terraform Senario Based Questions Part-II](https://medium.com/@sushantkapare1717/terraform-senario-based-questions-part-ii-71fd702f2535)
 ---
+[Terraform Questions Part-III](https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805)
+---
