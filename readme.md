@@ -86,3 +86,5 @@ This Repo is for  Blogs:-
 ---
 [Terraform Questions Part-III](https://medium.com/@sushantkapare1717/terraform-questions-part-iii-d742ec57e805)
 ---
+[Ansible Senario Based Questions Part-I](https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-i-f1be7b8b5620)
+---
