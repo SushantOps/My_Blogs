@@ -88,3 +88,5 @@ This Repo is for  Blogs:-
 ---
 [Ansible Senario Based Questions Part-I](https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-i-f1be7b8b5620)
 ---
+[Ansible Senario Based Questions Part-II](https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-ii-8c5413ec335c)
+---
