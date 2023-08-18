@@ -94,3 +94,5 @@ This Repo is for  Blogs:-
 ---
 [Kubernetes 1.27: Top 10 Features You Need to Know About](https://medium.com/@sushantkapare1717/kubernetes-1-27-top-10-features-you-need-to-know-about-50736943623b)
 ---
+[Kubernetes v1.28: New Features](https://medium.com/@sushantkapare1717/kubernetes-v1-28-new-features-25e40ccbd2fe)
+---
