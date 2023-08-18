@@ -92,3 +92,5 @@ This Repo is for  Blogs:-
 ---
 [Ansible Senario Based Questions Part-III](https://medium.com/@sushantkapare1717/ansible-senario-based-questions-part-iii-7b61dae91b8c)
 ---
+[Kubernetes 1.27: Top 10 Features You Need to Know About](https://medium.com/@sushantkapare1717/kubernetes-1-27-top-10-features-you-need-to-know-about-50736943623b)
+---
