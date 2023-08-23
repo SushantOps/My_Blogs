@@ -96,3 +96,5 @@ This Repo is for  Blogs:-
 ---
 [Kubernetes v1.28: New Features](https://medium.com/@sushantkapare1717/kubernetes-v1-28-new-features-25e40ccbd2fe)
 ---
+[Headless Kubernetes Service](https://medium.com/@sushantkapare1717/headless-kubernetes-service-20545f84ff81)
+---
