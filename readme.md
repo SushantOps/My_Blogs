@@ -98,3 +98,5 @@ This Repo is for  Blogs:-
 ---
 [Headless Kubernetes Service](https://medium.com/@sushantkapare1717/headless-kubernetes-service-20545f84ff81)
 ---
+[Restart Kubernetes Pods With Kubectl](https://medium.com/@sushantkapare1717/restart-kubernetes-pods-with-kubectl-75ebd931b3b3)
+---
