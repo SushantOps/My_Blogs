@@ -100,3 +100,5 @@ This Repo is for  Blogs:-
 ---
 [Restart Kubernetes Pods With Kubectl](https://medium.com/@sushantkapare1717/restart-kubernetes-pods-with-kubectl-75ebd931b3b3)
 ---
+[Blue/Green Deployments using Helm Charts](https://medium.com/@sushantkapare1717/blue-green-deployments-using-helm-charts-72d175c61117)
+---
