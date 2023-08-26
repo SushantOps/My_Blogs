@@ -102,3 +102,5 @@ This Repo is for  Blogs:-
 ---
 [Blue/Green Deployments using Helm Charts](https://medium.com/@sushantkapare1717/blue-green-deployments-using-helm-charts-72d175c61117)
 ---
+[Terraform Hacks for Effective Infrastructure Automation](https://medium.com/@sushantkapare1717/terraform-hacks-for-effective-infrastructure-automation-ee4f894129ed)
+---
