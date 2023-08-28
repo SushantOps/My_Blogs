@@ -104,3 +104,5 @@ This Repo is for  Blogs:-
 ---
 [Terraform Hacks for Effective Infrastructure Automation](https://medium.com/@sushantkapare1717/terraform-hacks-for-effective-infrastructure-automation-ee4f894129ed)
 ---
+[Jenkins Advanced Level Interview Questions](https://medium.com/@sushantkapare1717/jenkins-advanced-level-interview-questions-b66904f2bc48)
+---
