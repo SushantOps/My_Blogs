@@ -106,3 +106,5 @@ This Repo is for  Blogs:-
 ---
 [Jenkins Advanced Level Interview Questions](https://medium.com/@sushantkapare1717/jenkins-advanced-level-interview-questions-b66904f2bc48)
 ---
+[AWS Interview Questions & Answers](https://medium.com/@sushantkapare1717/aws-interview-questions-answers-6a53efa290f8)
+---
