@@ -108,3 +108,5 @@ This Repo is for  Blogs:-
 ---
 [AWS Interview Questions & Answers](https://medium.com/@sushantkapare1717/aws-interview-questions-answers-6a53efa290f8)
 ---
+[Kubernetes: Network Policies](https://medium.com/@sushantkapare1717/kubernetes-network-policies-22a092bbb519)
+---
