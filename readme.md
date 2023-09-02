@@ -110,3 +110,5 @@ This Repo is for  Blogs:-
 ---
 [Kubernetes: Network Policies](https://medium.com/@sushantkapare1717/kubernetes-network-policies-22a092bbb519)
 ---
+[Title: A Case Study of Kubernetes: Empowering Scalability and Orchestration](https://medium.com/@sushantkapare1717/title-a-case-study-of-kubernetes-empowering-scalability-and-orchestration-3c79da9c3920)
+---
