@@ -114,3 +114,5 @@ This Repo is for  Blogs:-
 ---
 [Ansible-Zero-to-Hero](https://medium.com/@sushantkapare1717/ansible-zero-to-hero-7d7344cdfc2d)
 ---
+[Installing Kubernetes on Ubuntu](https://medium.com/@sushantkapare1717/installing-kubernetes-on-ubuntu-6d47b1f964af)
+---
