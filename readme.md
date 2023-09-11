@@ -118,3 +118,5 @@ This Repo is for  Blogs:-
 ---
 [Top 10 Must-Have Tools for Kubernetes Engineers](https://medium.com/@sushantkapare1717/top-10-must-have-tools-for-kubernetes-engineers-1005ef2d76e)
 ---
+[AWS Security Best Practices: Protecting Your Cloud Infrastructure](https://medium.com/@sushantkapare1717/aws-security-best-practices-protecting-your-cloud-infrastructure-71eee435dd37)
+---
