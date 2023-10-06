@@ -122,3 +122,5 @@ This Repo is for  Blogs:-
 ---
 [𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 for 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐇𝐞𝐥𝐦](https://medium.com/@sushantkapare1717/for-21161c7b5d6e)
 ---
+[Understanding Infrastructure as Code and Configuration Management](https://medium.com/@sushantkapare1717/understanding-infrastructure-as-code-and-configuration-management-fabb626778aa)
+---
