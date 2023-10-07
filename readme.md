@@ -124,3 +124,5 @@ This Repo is for  Blogs:-
 ---
 [Understanding Infrastructure as Code and Configuration Management](https://medium.com/@sushantkapare1717/understanding-infrastructure-as-code-and-configuration-management-fabb626778aa)
 ---
+[Ad-hoc commands in Ansible](https://medium.com/@sushantkapare1717/ad-hoc-commands-in-ansible-63334a76eb77)
+---
