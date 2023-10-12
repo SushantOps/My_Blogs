@@ -126,3 +126,5 @@ This Repo is for  Blogs:-
 ---
 [Ad-hoc commands in Ansible](https://medium.com/@sushantkapare1717/ad-hoc-commands-in-ansible-63334a76eb77)
 ---
+[Exploring Deployment Strategies: Blue/Green, Recreate, Canary, Rolling Update, and A/B Testing](https://medium.com/@sushantkapare1717/exploring-deployment-strategies-blue-green-recreate-canary-rolling-update-and-a-b-testing-32a40ba8e0af)
+---
