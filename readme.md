@@ -165,3 +165,5 @@ Happy reading! 📖✨
 ---
 [CICD with Jenkins Multibranch pipeline](https://medium.com/@sushantkapare1717/cicd-with-jenkins-multibranch-pipeline-2059aa30fd35)
 ---
+[DevOps Automation with Shell Scripts 🚀](https://medium.com/@sushantkapare1717/devops-automation-with-shell-scripts-a9508766731c)
+---
