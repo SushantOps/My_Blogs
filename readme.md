@@ -167,5 +167,4 @@ Happy reading! 📖✨
 ---
 [DevOps Automation with Shell Scripts 🚀](https://medium.com/@sushantkapare1717/devops-automation-with-shell-scripts-a9508766731c)
 ---
-[Deploying Super Mario on Amazon EKS](https://medium.com/@sushantkapare1717/deploying-super-mario-on-amazon-eks-82ac4784a76b)
----
+
