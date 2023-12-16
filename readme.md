@@ -167,4 +167,6 @@ Happy reading! 📖✨
 ---
 [DevOps Automation with Shell Scripts 🚀](https://medium.com/@sushantkapare1717/devops-automation-with-shell-scripts-a9508766731c)
 ---
+[🚀 Explaining DevOps Projects in Interviews 🛠️](https://medium.com/@sushantkapare1717/explaining-devops-projects-in-interviews-%EF%B8%8F-d5eae18f02e2)
+---
 
