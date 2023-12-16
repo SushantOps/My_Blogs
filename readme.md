@@ -169,4 +169,5 @@ Happy reading! 📖✨
 ---
 [🚀 Explaining DevOps Projects in Interviews 🛠️](https://medium.com/@sushantkapare1717/explaining-devops-projects-in-interviews-%EF%B8%8F-d5eae18f02e2)
 ---
-
+[YAML Guide for DevOps Beginners](https://medium.com/@sushantkapare1717/yaml-guide-for-devops-beginners-991d9886da3f)
+---
