@@ -171,3 +171,5 @@ Happy reading! 📖✨
 ---
 [🚀 YAML Mastery: A Beginner's DevOps Guide 🤖](https://medium.com/@sushantkapare1717/yaml-guide-for-devops-beginners-991d9886da3f)
 ---
+[“⚖️ Kubernetes Descheduler: Balancing Workloads Automatically⚙️”](https://medium.com/@sushantkapare1717/%EF%B8%8F-kubernetes-descheduler-balancing-workloads-automatically-%EF%B8%8F-ed1a256f87f1)
+---
