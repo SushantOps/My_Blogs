@@ -173,3 +173,5 @@ Happy reading! 📖✨
 ---
 [“⚖️ Kubernetes Descheduler: Balancing Workloads Automatically⚙️”](https://medium.com/@sushantkapare1717/%EF%B8%8F-kubernetes-descheduler-balancing-workloads-automatically-%EF%B8%8F-ed1a256f87f1)
 ---
+[Kubernetes 1.29: Mandala (The Universe) ✨🌌](https://medium.com/@sushantkapare1717)
+---
