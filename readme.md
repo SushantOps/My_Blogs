@@ -175,3 +175,5 @@ Happy reading! 📖✨
 ---
 [Kubernetes 1.29: Mandala (The Universe) ✨🌌](https://medium.com/@sushantkapare1717)
 ---
+[Kubernetes 1.29 API :Boosting Security](https://medium.com/@sushantkapare1717/kubernetes-1-29-api-boosting-security-77f046dd2959)
+---
