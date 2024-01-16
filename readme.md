@@ -179,3 +179,5 @@ Happy reading! 📖✨
 ---
 [🤖 CI/CD Best Practices 🚀](https://medium.com/@sushantkapare1717/ci-cd-best-practices-9c4164f65421)
 ---
+[Unleashing Docker Scout’s Nautical Magic! 🚢🌐](https://medium.com/@sushantkapare1717/unleashing-docker-scouts-nautical-magic-9377c1c572c4)
+---
