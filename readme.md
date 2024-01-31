@@ -181,3 +181,7 @@ Happy reading! 📖✨
 ---
 [Unleashing Docker Scout’s Nautical Magic! 🚢🌐](https://medium.com/@sushantkapare1717/unleashing-docker-scouts-nautical-magic-9377c1c572c4)
 ---
+[Kubernetes cost optimization](https://medium.com/@sushantkapare1717/kubernetes-cost-optimization-5049920664ef)
+---
+[💡 DevOps projects ideas 🧠](https://medium.com/@sushantkapare1717/devops-projects-ideas-a42374839041)
+---
