@@ -185,3 +185,5 @@ Happy reading! 📖✨
 ---
 [💡 DevOps projects ideas 🧠](https://medium.com/@sushantkapare1717/devops-projects-ideas-a42374839041)
 ---
+[Naming conventions for Git Branches](https://medium.com/@sushantkapare1717/naming-conventions-for-git-branches-cb3f7ec82bc5)
+---
