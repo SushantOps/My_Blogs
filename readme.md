@@ -187,3 +187,5 @@ Happy reading! 📖✨
 ---
 [Naming conventions for Git Branches](https://medium.com/@sushantkapare1717/naming-conventions-for-git-branches-cb3f7ec82bc5)
 ---
+[Azure Zero to Hero Day — 1](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-1-a5800ff0c0b1)
+---
