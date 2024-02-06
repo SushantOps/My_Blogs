@@ -189,7 +189,7 @@ Happy reading! 📖✨
 ---
 [Azure Zero to Hero Day — 1](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-1-a5800ff0c0b1)
 ---
-[Azure Zero to Hero Day --2](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-2-4d6b94781e08)
+[Azure Zero to Hero Day — 2](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-2-4d6b94781e08)
 ---
 [Azure Zero to Hero Day — 3](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-3-fd7e2f2b2bce)
 ---
