@@ -195,3 +195,15 @@ Happy reading! 📖✨
 ---
 [Azure Zero to Hero Day — 4](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-4-a5c3d9751164)
 ---
+[Azure Zero to Hero Day — 5](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-5-f150b9a7e594)
+---
+[Azure Zero to Hero Day — 6](https://medium.com/@sushantkapare1717/azure-zero-to-hero-day-6-c4ac62b125e4)
+---
+[DevOps vs SRE vs Platform Engineering](https://medium.com/@sushantkapare1717/devops-vs-sre-vs-platform-engineering-22b3f4a8b34f)
+---
+[Stop writing Dockerfiles — Do this instead](https://medium.com/@sushantkapare1717/stop-writing-dockerfiles-today-do-this-instead-b88f2a0cadeb)
+---
+[Kubernetes vs. Openshift](https://medium.com/@sushantkapare1717/kubernetes-vs-openshift-f776096144cb)
+---
+[Programming Languages for DevOps in 2024](https://medium.com/@sushantkapare1717/programming-languages-for-devops-in-2024-38bfa84fd9e0)
+---
